@@ -4,5 +4,8 @@ http://213.252.252.2/live/eds/ViasatSportBaltics_HD/HLS_encr/ViasatSportBaltics_
 ## TV6
 http://213.252.252.2/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD.m3u8
 
-## LRT
-http://213.252.252.2/live/eds/LRT_Lithuania/HLS_encr/index.m3u8
+## TV3
+http://213.252.252.2/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8
+
+## LNK
+http://213.252.252.2/live/eds/LNK/HLS_encr/LNK.m3u8
