@@ -1,0 +1,2 @@
+## Viasat Sport 3
+https://l.facebook.com/l.php?u=http%3A%2F%2F213.252.252.2%2Flive%2Feds%2FViasatSportBaltics_HD%2FHLS_encr%2FViasatSportBaltics_HD-avc1_5500000%3D16-mp4a_96000_lit%3D11.m3u8%3Ffbclid%3DIwAR0jjb61EteRy_m4VraxILyKOTB0is628Hc2-3EorTGsgeIQKyi7mcvD7fQ&h=AT1COEHX82iETq2lX2GRR_F3a9OOttN6er2vFLHd9GRf16g9a9MDWuZIpySpnYvrmmHD2UrcM-XtEy0-L_rKmkKmhmOBlOD_feXXcvuxpCnIpiROq_aBYFhPwZp9vhz_1rFH7B8M
